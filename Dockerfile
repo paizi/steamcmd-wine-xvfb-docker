@@ -1,4 +1,4 @@
-FROM steamcmd/steamcmd:latest
+FROM steamcmd/steamcmd:ubuntu-20
 
 USER root
 
